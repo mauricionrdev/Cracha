@@ -64,8 +64,8 @@ a {
     justify-content: center;
     align-items: center;
 }
-p {
-    margin-top: 2rem;
+p#userGitHubBio {
+    margin: 2rem 1.8rem;
 }
 ul {
     margin-top: 3rem;
